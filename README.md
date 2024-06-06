@@ -19,7 +19,7 @@
 
 - Requires: `Python 3.10+`
 - Make a python virtual environment: `python3 -m venv venv`
-- Source the environment: `venv\Scripts\activate` (Windows)/ `source venv/bin/activate` (macOS, Linux)
+- Source the environment: `venv\Scripts\activate` (Windows) / `source venv/bin/activate` (macOS, Linux)
 - Install the requirements: `pip install -r requirements.txt`
 - Start: `python3 main.py`
 
