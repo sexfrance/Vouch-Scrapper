@@ -59,7 +59,7 @@ Write.Print(f"""
 \t\t                                                                                                 | $$      | $$                          
 \t\t                                                                                                 | $$      | $$                          
 \t\t                                                                                                 |__/      |__/  
-\t\t                                      Welcome {username} | discord.gg/bestnitro  
+\t\t                                      Welcome {username} | discord.cyberious.xyz  
 \t\t                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \t\t  ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 """, Colors.red_to_blue, interval=0.0000)
