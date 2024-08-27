@@ -11,7 +11,7 @@ token = "enter token here"
 username = "your discord username"
 
 class logger:
-    def __init__(self, prefix: str = ".gg/bestnitro"):
+    def __init__(self, prefix: str = "discord.cyberious.xyz"):
         self.WHITE: str = "\u001b[37m"
         self.MAGENTA: str = "\033[38;5;97m"
         self.MAGENTAA: str = "\033[38;2;157;38;255m"
