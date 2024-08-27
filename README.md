@@ -5,7 +5,7 @@
     A simple program that will scrape vouches starting with +rep, +vouch in every discord server you are in and save the data in a json file that you can use on a certain vouch bot. You will need to enter your discord token and your discord username for the vouches to be saved at your name.
     <br />
     <br />
-    <a href="https://discord.gg/bestnitro">💬 Discord</a>
+    <a href="https://discord.cyberious.xyz">💬 Discord</a>
     ·
     <a href="https://github.com/sexfrance/Vouch-Scrapper#-changelog">📜 ChangeLog</a>
     ·
